@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ICS-REACT-PORTFOLIO/static/css/main.d2a65960.chunk.css",
+    "main.js": "/ICS-REACT-PORTFOLIO/static/js/main.973335b5.chunk.js",
+    "main.js.map": "/ICS-REACT-PORTFOLIO/static/js/main.973335b5.chunk.js.map",
+    "runtime-main.js": "/ICS-REACT-PORTFOLIO/static/js/runtime-main.13999704.js",
+    "runtime-main.js.map": "/ICS-REACT-PORTFOLIO/static/js/runtime-main.13999704.js.map",
+    "static/js/2.7894c518.chunk.js": "/ICS-REACT-PORTFOLIO/static/js/2.7894c518.chunk.js",
+    "static/js/2.7894c518.chunk.js.map": "/ICS-REACT-PORTFOLIO/static/js/2.7894c518.chunk.js.map",
+    "static/js/3.ac005812.chunk.js": "/ICS-REACT-PORTFOLIO/static/js/3.ac005812.chunk.js",
+    "static/js/3.ac005812.chunk.js.map": "/ICS-REACT-PORTFOLIO/static/js/3.ac005812.chunk.js.map",
+    "index.html": "/ICS-REACT-PORTFOLIO/index.html",
+    "static/css/main.d2a65960.chunk.css.map": "/ICS-REACT-PORTFOLIO/static/css/main.d2a65960.chunk.css.map",
+    "static/js/2.7894c518.chunk.js.LICENSE.txt": "/ICS-REACT-PORTFOLIO/static/js/2.7894c518.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ICS-REACT-PORTFOLIO/static/media/workdaysched.b4aa8d73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13999704.js",
+    "static/js/2.7894c518.chunk.js",
+    "static/css/main.d2a65960.chunk.css",
+    "static/js/main.973335b5.chunk.js"
+  ]
+}
